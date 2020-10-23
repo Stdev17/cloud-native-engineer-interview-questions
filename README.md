@@ -8,7 +8,9 @@ cloud-native-engineer-interview-questions
 
 :notebook_with_decorative_cover: &nbsp;Curious about what materials to learn? Check out the curated list of Cloud Native.
 
-***
+The repo supports sereval languages. To see the readme in another language, check below.
+
+---
 
 <h3 align="center"><strong>Objectives</strong></h3>
 
@@ -16,7 +18,7 @@ cloud-native-engineer-interview-questions
 
 <h3 align="center"><strong>Definition of Cloud Native</strong></h3>
 
-> 
+>
 
 <h3 align="center"><strong>To Contributors</strong></h3>
 
@@ -26,7 +28,7 @@ cloud-native-engineer-interview-questions
 
 > TBD
 
-***
+---
 
 ## Questions
 
@@ -52,35 +54,59 @@ cloud-native-engineer-interview-questions
 
 #### Memo
 
-* Linux
-* Distributed System(Kubernetes Cluster, Rancher)
-* K8s Pattern
-* Infra(CM - Ansible, Provision - Terraform)
-* Network(Istio)
-* Security
-* Architecture(MSA practices)
-* Container
-* CI/CD(Git, Spinnaker, Tekton, Github Actions)
-* Logging
-* Monitoring
-* Testing(Infra integration test, load test, pen testing)
-* Culture
-* Job Description
+- Distributed System(Kubernetes Cluster, Rancher)
+- K8s Pattern
+- Infrastructure(CM - Ansible, Provision - Terraform)
+- Network(Istio)
+- Security
+- Architecture(MSA practices)
+- Container
+- CI/CD(Git, Spinnaker, Tekton, Github Actions)
+- Logging
+- Monitoring
+- Testing(Infra integration test, load test, pen testing)
+- Culture
+- Job Description
 
-* Git
-* Docker
-* Golang
-* Terraform
-* Regex
-* Certificates
-* Prometheus
-* Vault
-* Elastic
+- Calico
+- Certificates
+- Command Line Tools
+- DB/SQL
+- DNS/Routing
+- Docker
+- Elastic
+- Git
+- Golang
+- Gremlin
+- HTTP(S)
+- Istio
+- Kubernetes
+- Linux
+- Prometheus
+- Regex
+- Terraform
+- Proxy... what should I use?
+- Vault
+
 
 ## Materials
 
+- Distributed System(Kubernetes Cluster, Rancher)
+- K8s Pattern
+- Infra(CM - Ansible, Provision - Terraform)
+- Network(Istio)
+- Security
+- Architecture(MSA practices)
+- Container
+- CI/CD(Git, Spinnaker, Tekton, Github Actions)
+- Logging
+- Monitoring
+- Testing(Infra integration test, load test, pen testing)
+- Culture
+- Job Description
+
 ## Credits
 
-We appreciate all the contributors and learners breaking down the wall of information asymmetry for the community. This repo has a lot been inspired by following sources.
+We appreciate all the [contributors](https://github.com/Stdev17/cloud-native-engineer-interview-questions/graphs/contributors) and learners breaking down the wall of information asymmetry for the community. This repo has a lot been inspired by following sources.
 
-* [devops-exercises](https://github.com/bregman-arie/devops-exercises)
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises)
